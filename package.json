@@ -1,6 +1,6 @@
 {
   "name": "@utrust/simpl-schema",
-  "version": "0.2.3.1",
+  "version": "0.2.4",
   "description": "A schema validation package that supports direct validation of MongoDB update modifier objects.",
   "author": "Eric Dobbertin <aldeed@gmail.com>, Joshua Efiong <joshefiong@gmail.com>",
   "license": "MIT",
